@@ -23,3 +23,5 @@ save-data
       useage: 'save-data filename datatype'
     valid types:'sql','json,'csv'; defaults are weatherdata.filetype and csv
 
+
+Note: example.db is provided as an example of output
