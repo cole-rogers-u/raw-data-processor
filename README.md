@@ -25,3 +25,4 @@ save-data
 
 
 Note: example.db is provided as an example of output
+as are ex.csv and ex.json
